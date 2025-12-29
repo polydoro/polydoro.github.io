@@ -1,0 +1,8 @@
+title: Angelo Polydoro
+description: Applied Macroeconomics, Incomplete Information and Formal Verification
+theme: minima
+
+minima:
+  skin: classic
+
+markdown: kramdown
