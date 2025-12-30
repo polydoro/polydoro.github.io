@@ -1,5 +1,3 @@
-**Applied Macroeconomics · Incomplete Information · Formal Verification**
-
 ## Position & Education
 
 Macroeconomist at Absolute Investments.  
