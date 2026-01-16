@@ -4,7 +4,7 @@ Macroeconomist at Absolute Investments.
 PhD in Economics, University of Rochester.
 
 - GitHub: https://github.com/polydoro  
-- LinkedIn: https://www.linkedin.com/in/<your-linkedin-handle>
+- LinkedIn: https://www.linkedin.com/in/polydoro
 
 ## Interests
 
